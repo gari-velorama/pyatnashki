@@ -1,0 +1,1 @@
+C:\Git\pyatnashki\BoardF\obj\x86\Debug\ResolveAssemblyReference.cache
